@@ -7,7 +7,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/catdad-experiments/heic-cli.git"
+    "url": "git://github.com/bdebicki/heicconvert.git"
+  },
+  "engines": {
+    "node": "12.18.1",
+    "npm": "6.x"
   },
   "author": "Bartosz Dębicki <bartosz.debicki@zoin.pl>",
   "license": "MIT",
