@@ -1,0 +1,22 @@
+{
+  "name": "heicconvert",
+  "version": "0.0.1",
+  "description": "Convert HEIC images to JPEG",
+  "scripts": {
+    "convert": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catdad-experiments/heic-cli.git"
+  },
+  "author": "Bartosz Dębicki <bartosz.debicki@zoin.pl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bdebicki/heicconvert/issues"
+  },
+  "homepage": "https://github.com/bdebicki/heicconvert",
+  "dependencies": {
+    "heic-convert": "^1.2.4"
+  },
+  "devDependencies": {}
+}
